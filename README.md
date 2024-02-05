@@ -2,7 +2,7 @@
 usuario admin
 contraseña admin1
 
-limks: 
+links: 
 
 clientes/: Esta URL corresponde a la vista ClienteViewSet. Cuando se hace una solicitud GET a esta URL, se devuelve una lista de todos los clientes. Cuando se hace una solicitud POST, se crea un nuevo cliente.
 
